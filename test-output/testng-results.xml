@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14896" started-at="2017-04-18T12:23:47Z" finished-at="2017-04-18T12:24:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14896" started-at="2017-04-18T12:23:47Z" finished-at="2017-04-18T12:24:02Z">
+      <class name="SeleniumFramework.SeleniumFramework.webdriverSmokeTestDemo">
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:SeleniumFramework.SeleniumFramework.webdriverSmokeTestDemo@7c16905e]" name="getdriver" is-config="true" duration-ms="9067" started-at="2017-04-18T17:53:47Z" finished-at="2017-04-18T17:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:SeleniumFramework.SeleniumFramework.webdriverSmokeTestDemo@7c16905e]" name="verifyLogin" duration-ms="5807" started-at="2017-04-18T17:53:56Z" finished-at="2017-04-18T17:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- SeleniumFramework.SeleniumFramework.webdriverSmokeTestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
